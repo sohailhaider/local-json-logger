@@ -1,0 +1,16 @@
+{
+  "name": "local-json-logger",
+  "version": "1.0.0",
+  "description": "Send logs to this and log them locally to file",
+  "main": "app.js",
+  "author": "Sohail Haider",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
