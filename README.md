@@ -5,6 +5,6 @@ when working with TS application without debugger or apps where I don't have deb
 
 ## How to Use:
  - `yarn install` the package and start the application with `yarn start`.
- - now send data to `http://localhost:8765`.
+ - now send data to `http://localhost:8765` in post/json.
  - open `http://localhost:8765`. You should be able to view the data view `jsoneditor`.
 ![Alt Text](./demo.gif)
