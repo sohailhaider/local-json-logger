@@ -1,8 +1,31 @@
 [
   {
-    "val": "0k"
+    "dealer_dealerID": 5701,
+    "common_language": "de",
+    "common_country": "de",
+    "classified_customer_type": "d"
   },
   {
-    "val": "0k"
-  }
+    "common_linkgroup": "",
+    "common_linkid": "",
+    "common_market": "vm",
+    "common_category": "dealerinfo",
+    "common_pageid": "list",
+    "common_pageName": "de/vm/dealerinfo/list",
+    "common_attribute": "",
+    "common_group": "",
+    "common_layer": "",
+    "market": "de",
+    "ga4_client_id": "50331347.1697787373",
+    "as24_visitor_id": "a89ad3e0-724e-4f14-b9d7-177fd4f0e5bc",
+    "login_status": "not_logged_in",
+    "adblocker_usage": "no adblock detected"
+  },
+  {"common_country":"de","common_language":"de","common_brand":"","common_environment":"live","common_platform":"web","common_techState":"tatsu","gtm":{"start":1700560978344},"event":"gtm.js","dealer_dealerID":5701,"classified_customer_type":"d","common_linkgroup":"","common_linkid":"","common_market":"vm","common_category":"dealerinfo","common_pageid":"list","common_pageName":"de/vm/dealerinfo/list","common_attribute":"","common_group":"","common_layer":""},
+  {
+    "dealer_dealerID": 5701,
+    "classified_customer_type": "d"
+  },
+  {"event_name":"page_view","event_type":"page_load","market":"de","ga4_client_id":"50331347.1697787373","as24_visitor_id":"a89ad3e0-724e-4f14-b9d7-177fd4f0e5bc","login_status":"not_logged_in","adblocker_usage":"no adblock detected","content_group":"car","page_title":"list","content_id":"all"},
+  {"common_country":"de","common_language":"de","common_brand":"","common_environment":"live","common_platform":"web","common_techState":"tatsu","gtm":{"start":1700562154464},"event":"page_view","dealer_dealerID":5701,"classified_customer_type":"d","event_name":"page_view","event_type":"page_load","market":"de","ga4_client_id":"50331347.1697787373","as24_visitor_id":"a89ad3e0-724e-4f14-b9d7-177fd4f0e5bc","login_status":"not_logged_in","adblocker_usage":"no adblock detected","content_group":"car","page_title":"list","content_id":"all"}
 ]
